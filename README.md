@@ -5,9 +5,10 @@ the report forms includes,
 - OB 2/3 Trimester USG Report
 - Pelvis Scan Report
 - Pelvis Scan Final Report
-
+## Recommendations
+- WAMP server.
+- ***Mozilla firefox*** browser.
 ## Installation
-# INSTALLATION
 - download this repository and copy bill folder to _c://wamp64/bill_ .
 - run wamp and open _phpmyadmin_ 
 - create a blank database _gjk_, selecting that database continue to import database _gjk.sql_ from repository.
@@ -15,7 +16,7 @@ the report forms includes,
 _username_: admin
 _password_: admin
 
-- use comments or issues for any queries and problems
+- use comments or issues for any queries and problems.
 
 **System key features**
 - print and feed patient report to database.
