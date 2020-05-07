@@ -12,7 +12,7 @@ the report forms includes,
 - download this repository and copy bill folder to _c://wamp64/bill_ .
 - run wamp and open _phpmyadmin_ 
 - create a blank database _gjk_, selecting that database continue to import database _gjk.sql_ from repository.
-- open _http://localhost/gk_ url and login to system using 
+- open _http://localhost/gjk_ url and login to system using 
 _username_: admin
 _password_: admin
 
